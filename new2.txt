@@ -3,3 +3,5 @@ to check the command git diff
 right now in staged mode / ready to commit 
 
 changes adeds
+
+importeandt info added
